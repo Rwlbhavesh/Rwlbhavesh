@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bhavesh Rawal</h1>
 <h3 align="center">Aspiring Data Analyst | Data Cleaning, Visualization & Reporting | Excel | SQL | Power BI | Tableau | Python | MongoDB</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rwlbhavesh&label=Profile%20views&color=0e75b6&style=flat" alt="rwlbhavesh" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rwlbhavesh" alt="rwlbhavesh" /></a> </p>
 
 - 🌱 I’m currently learning **Data analytics**
 
-- 💬 Ask me about **Hi, I'm Bhavesh Rawal from Rajasthan. 🎓 I have completed my Bachelor of Arts with Economics from Mohanlal Sukhadia University, Udaipur. 💡 My strong interest in technology and data led me to pursue a Data Analytics course in Ahmedabad. 🛠️ Tools I learned include: Excel, SQL, Python, Power BI, Tableau, and Prompt Writing. 📊 During the course, I worked on multiple real-world projects involving data cleaning, analysis, and dashboard creation. 💼 Before moving into tech, I worked in Mumbai for 1.5 years with a mobile parts dealer — which helped me build communication skills, confidence, and discipline. 🚀 I'm now looking for opportunities where I can apply my skills, grow professionally, and contribute to data-driven solutions. 🔗 Let’s connect and grow together!**
 
 - 📫 How to reach me **rawalbhavesh73@gmail.com**
 
