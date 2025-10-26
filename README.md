@@ -1,18 +1,81 @@
-<h1 align="center">Hi 👋, I'm Bhavesh Rawal</h1>
-<h3 align="center">Aspiring Data Analyst | Data Cleaning, Visualization & Reporting | Excel | SQL | Power BI | Tableau | Python | MongoDB</h3>
-
-
-- 🌱 I’m currently learning **Data analytics**
-
-
-- 📫 How to reach me **rawalbhavesh73@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/bhavesh rawal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhavesh rawal" height="30" width="40" /></a>
+<!-- Animated Banner -->
+<p align="center">
+  <img src="https://github.com/bhaveshrawal/banner.gif" alt="Data Analyst Banner" width="100%">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+<h1 align="center">👋 Hi, I'm Bhavesh Rawal</h1>
+<h3 align="center">Aspiring Data Analyst | Excel | SQL | Power BI | Tableau | Python | MongoDB | Orange</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rwlbhavesh&show_icons=true&locale=en" alt="rwlbhavesh" /></p>
+---
+
+### 💫 About Me
+🚀 I’m an **Aspiring Data Analyst** passionate about finding insights hidden in data.  
+📊 Skilled in **Excel, SQL, Power BI, Tableau, Python**, and various analytical tools.  
+🧠 Currently exploring **Machine Learning and Business Intelligence dashboards**.  
+🎯 My goal is to become a professional **Data Analyst** who helps companies make data-driven decisions.  
+🌱 Always learning and improving analytical thinking skills.  
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/bhavesh-rawal/)  
+
+---
+
+### 🧩 Tech Stack & Tools  
+<p align="center">
+
+  <!-- Data Tools -->
+  <img src="https://img.icons8.com/color/96/microsoft-excel-2019--v1.png" alt="Excel" width="60" height="60"/>
+  <img src="https://img.icons8.com/color/96/power-bi.png" alt="Power BI" width="60" height="60"/>
+  <img src="https://img.icons8.com/color/96/tableau-software.png" alt="Tableau" width="60" height="60"/>
+
+  <!-- Programming & Libraries -->
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="60" height="60"/>
+  <img src="https://img.icons8.com/color/96/numpy.png" alt="NumPy" width="60" height="60"/>
+  <img src="https://img.icons8.com/color/96/pandas.png" alt="Pandas" width="60" height="60"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="60" height="60"/>
+
+  <!-- Databases -->
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="60" height="60"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="60" height="60"/>
+
+  <!-- Version Control & Tools -->
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub, VS Code" width="60" height="60"/>
+
+</p>
+
+
+---
+
+### 🎞️ Featured GIF
+<p align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="coding gif" width="400"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bhaveshrawal&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhaveshrawal&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+
+### 🌐 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/bhavesh-rwl">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="50"/>
+  </a>
+  &nbsp;
+  <a href="mailto:rawalbhavesh73@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="50"/>
+  </a>
+</p>
+
+
+---
+
+<p align="center">✨ “Turning raw data into powerful stories.” ✨</p>
+
