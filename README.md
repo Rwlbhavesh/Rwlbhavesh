@@ -14,7 +14,6 @@
 🧠 Currently exploring **Machine Learning and Business Intelligence dashboards**.  
 🎯 My goal is to become a professional **Data Analyst** who helps companies make data-driven decisions.  
 🌱 Always learning and improving analytical thinking skills.  
-📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/bhavesh-rawal/)  
 
 ---
 
