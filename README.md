@@ -3,23 +3,24 @@
   <img src="https://github.com/bhaveshrawal/banner.gif" alt="Data Analyst Banner" width="100%">
 </p>
 
-<h1 align="center">👋 Hi, I'm Bhavesh Rawal</h1>
-<h3 align="center">Aspiring Data Analyst | Excel | SQL | Power BI | Tableau | Python | MongoDB | Orange</h3>
+<h1 align="center" style="font-family:'Clarendon', Georgia, serif; font-size:48px; color:#00BFFF;">👋 Hi, I'm Bhavesh Rawal</h1>
+<h3 align="center" style="font-family:'Clarendon', Georgia, serif; font-size:24px; color:#FFFFFF;">Aspiring Data Analyst | Excel | SQL | Power BI | Tableau | Python | MongoDB | Orange</h3>
 
 ---
 
 ### 💫 About Me
-🚀 I’m an **Aspiring Data Analyst** passionate about finding insights hidden in data.  
-📊 Skilled in **Excel, SQL, Power BI, Tableau, Python**, and various analytical tools.  
-🧠 Currently exploring **Machine Learning and Business Intelligence dashboards**.  
-🎯 My goal is to become a professional **Data Analyst** who helps companies make data-driven decisions.  
-🌱 Always learning and improving analytical thinking skills.  
+<p style="font-family:'Clarendon', Georgia, serif; font-size:16px; line-height:1.6; color:#D3D3D3;">
+🚀 I’m an <b>Aspiring Data Analyst</b> passionate about finding insights hidden in data.<br>
+📊 Skilled in <b>Excel, SQL, Power BI, Tableau, Python</b>, and various analytical tools.<br>
+🧠 Currently exploring <b>Machine Learning and Business Intelligence dashboards</b>.<br>
+🎯 My goal is to become a professional <b>Data Analyst</b> who helps companies make data-driven decisions.<br>
+🌱 Always learning and improving analytical thinking skills.
+</p>
 
 ---
 
-### 🧩 Tech Stack & Tools  
+### 🧩 Tech Stack & Tools
 <p align="center">
-
   <!-- Data Tools -->
   <img src="https://img.icons8.com/color/96/microsoft-excel-2019--v1.png" alt="Excel" width="60" height="60"/>
   <img src="https://img.icons8.com/color/96/power-bi.png" alt="Power BI" width="60" height="60"/>
@@ -37,9 +38,7 @@
 
   <!-- Version Control & Tools -->
   <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub, VS Code" width="60" height="60"/>
-
 </p>
-
 
 ---
 
@@ -52,15 +51,14 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhaveshrawal&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bhaveshrawal&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhaveshrawal&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhaveshrawal&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
-
 
 ### 🌐 Connect With Me
 <p align="center">
@@ -68,13 +66,13 @@
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="50"/>
   </a>
   &nbsp;
-  <a href="mailto:rawalbhavesh73@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="50"/>
+  <a href="https://www.instagram.com/_rwl_bhavesh/">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="50"/>
   </a>
 </p>
 
-
 ---
 
-<p align="center">✨ “Turning raw data into powerful stories.” ✨</p>
-
+<p align="center" style="font-family:'Clarendon', Georgia, serif; font-size:20px; color:#00BFFF;">
+✨ “Turning raw data into powerful stories.” ✨
+</p>
