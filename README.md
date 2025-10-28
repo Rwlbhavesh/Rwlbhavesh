@@ -48,7 +48,6 @@
 
 ---
 
-
 ### 🌐 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/bhavesh-rwl">
@@ -65,3 +64,28 @@
 <p align="center" style="font-family:'Clarendon', Georgia, serif; font-size:20px; color:#00BFFF;">
 ✨ “Turning raw data into powerful stories.” ✨
 </p>
+
+---
+
+<!-- 🌟 Unique Futuristic Profile Views Section -->
+<hr style="border: 0; height: 1px; background: linear-gradient(to right, #00BFFF, #1E90FF, #00BFFF); margin: 40px 0;">
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Clarendon&size=28&duration=3500&pause=2000&color=00BFFF&center=true&vCenter=true&width=600&lines=👀+Thank+You+for+Visiting!;✨+You're+Part+of+My+Data+Journey+✨;💙+Profile+View+Tracker+Below..." alt="Typing Animation"/>
+</p>
+
+<div align="center">
+  <a href="https://github.com/bhaveshrawal">
+    <img src="https://komarev.com/ghpvc/?username=bhaveshrawal&label=✨+Total+Visitors+✨&color=0AFFFF&style=for-the-badge&logo=github" alt="Profile Views Counter"/>
+  </a>
+</div>
+
+<p align="center" style="font-family:'Clarendon', Georgia, serif; font-size:18px; color:#87CEEB; margin-top:10px;">
+  <b>💫 Every view motivates me to keep creating insightful data projects!</b>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" width="600">
+</p>
+
+<hr style="border: 0; height: 1px; background: linear-gradient(to right, #00BFFF, #1E90FF, #00BFFF); margin: 40px 0;">
