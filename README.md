@@ -76,7 +76,7 @@
 
 <div align="center">
   <a href="https://github.com/bhaveshrawal">
-    <img src="https://komarev.com/ghpvc/?username=bhaveshrawal&label=✨+Total+Visitors+✨&color=0AFFFF&style=for-the-badge&logo=github" alt="Profile Views Counter"/>
+    <img src="https://komarev.com/ghpvc/?username=Rwlbhavesh&label=✨+Total+Visitors+✨&color=0AFFFF&style=for-the-badge&logo=github" alt="Profile Views Counter"/>
   </a>
 </div>
 
