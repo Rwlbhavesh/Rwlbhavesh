@@ -1,15 +1,15 @@
-<!-- Animated Banner -->
+<!-- Animated Welcome Banner (Name removed — unique welcome) -->
 <p align="center">
-  <img src="https://github.com/bhaveshrawal/banner.gif" alt="Data Analyst Banner" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:1E90FF&height=140&section=header&text=Step%20Inside%20-%20Data%20Stories%20Await&fontSize=36&fontColor=ffffff" alt="Welcome Banner" width="100%"/>
 </p>
 
-<h1 align="center" style="font-family:'Clarendon', Georgia, serif; font-size:48px; color:#00BFFF;">👋 Hi, I'm Bhavesh Rawal</h1>
-<h3 align="center" style="font-family:'Clarendon', Georgia, serif; font-size:24px; color:#FFFFFF;">Aspiring Data Analyst | Excel | SQL | Power BI | Tableau | Python | MongoDB | Orange</h3>
+<h1 align="center" style="font-family:'Clarendon', Georgia, serif; font-size:48px; color:#00BFFF;">👋 Hi there</h1>
+<h3 align="center" style="font-family:'Clarendon', Georgia, serif; font-size:24px; color:#FFFFFF;">Aspiring Data Analyst | Excel | SQL | Power BI | Tableau | Python | Satistics |
 
 ---
 
 ### 💫 About Me
-<p style="font-family:'Clarendon', Georgia, serif; font-size:16px; line-height:1.6; color:#D3D3D3;">
+<p align="center" style="font-family:'Clarendon', Georgia, serif; font-size:16px; line-height:1.6; color:#D3D3D3; max-width:900px;">
 🚀 I’m an <b>Aspiring Data Analyst</b> passionate about finding insights hidden in data.<br>
 📊 Skilled in <b>Excel, SQL, Power BI, Tableau, Python</b>, and various analytical tools.<br>
 🧠 Currently exploring <b>Machine Learning and Business Intelligence dashboards</b>.<br>
@@ -34,7 +34,6 @@
 
   <!-- Databases -->
   <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="60" height="60"/>
-  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="60" height="60"/>
 
   <!-- Version Control & Tools -->
   <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub, VS Code" width="60" height="60"/>
@@ -61,24 +60,9 @@
 
 ---
 
-<p align="center" style="font-family:'Clarendon', Georgia, serif; font-size:20px; color:#00BFFF;">
-✨ “Turning raw data into powerful stories.” ✨
-</p>
-
----
-
-<!-- 🌟 Unique Futuristic Profile Views Section -->
-<hr style="border: 0; height: 1px; background: linear-gradient(to right, #00BFFF, #1E90FF, #00BFFF); margin: 40px 0;">
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Clarendon&size=28&duration=3500&pause=2000&color=00BFFF&center=true&vCenter=true&width=600&lines=👀+Thank+You+for+Visiting!;✨+You're+Part+of+My+Data+Journey+✨;💙+Profile+View+Tracker+Below..." alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Clarendon&size=28&duration=3500&pause=2000&color=00BFFF&center=true&vCenter=true&width=600&lines=👀+Thanks+for+Stopping+By!;✨+Explore+Projects+%26+Dashboards+✨;💙+Profile+Views+Below..." alt="Typing Animation"/>
 </p>
-
-<div align="center">
-  <a href="https://github.com/Rwlbhavesh">
-    <img src="https://komarev.com/ghpvc/?username=Rwlbhavesh&label=✨+Total+Visitors+✨&color=0AFFFF&style=for-the-badge&logo=github" alt="Profile Views Counter"/>
-  </a>
-</div>
 
 
 <p align="center" style="font-family:'Clarendon', Georgia, serif; font-size:18px; color:#87CEEB; margin-top:10px;">
