@@ -58,19 +58,14 @@
   </a>
 </p>
 
----
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Clarendon&size=28&duration=3500&pause=2000&color=00BFFF&center=true&vCenter=true&width=600&lines=👀+Thanks+for+Stopping+By!;✨+Explore+Projects+%26+Dashboards+✨;💙+Profile+Views+Below..." alt="Typing Animation"/>
 </p>
 
 
-<p align="center" style="font-family:'Clarendon', Georgia, serif; font-size:18px; color:#87CEEB; margin-top:10px;">
-  <b>💫 Every view motivates me to keep creating insightful data projects!</b>
-</p>
 
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" width="600">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rwlbhavesh&theme=tokyo-night&area=true" alt="activity" />
 </p>
 
-<hr style="border: 0; height: 1px; background: linear-gradient(to right, #00BFFF, #1E90FF, #00BFFF); margin: 40px 0;">
